@@ -17,6 +17,7 @@ Building cool tools & always learning. Passionate about ML and development. Open
 - Web Development
 - APIs
 - Problem Solving
+- Machine Learning
 
 📫 How to reach me:
 -------------------
