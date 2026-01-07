@@ -15,19 +15,11 @@ Passionate Full-Stack Developer and Data Engineering enthusiast with a strong fo
 
 ## Technical Skills
 
-**Languages:** Python, Java, C++, JavaScript, SQL
-
-**Backend:** Spring Boot, REST APIs, Microservices
-
-**Databases:** Oracle, SQL, NoSQL concepts
-
-**Cloud & DevOps:** AWS (EC2, S3, Lambda), Docker, Git
+**Languages:** Python, C++, JavaScript, SQL
 
 **Frontend:** HTML, CSS, JavaScript
 
 **Tools & Platforms:** VS Code, Git, GitHub, Oracle Live SQL, Jupyter
-
-**Data Engineering:** Hadoop, Spark (learning), ETL concepts
 
 ---
 
@@ -38,7 +30,7 @@ Passionate Full-Stack Developer and Data Engineering enthusiast with a strong fo
 - 🗄️ **Database Management** - SQL optimization, database design, normalization
 - 📊 **Data Engineering** - ETL pipelines, data systems architecture
 - 🤖 **Machine Learning** - ML fundamentals and practical applications
-- 💡 **Problem Solving** - Algorithm optimization and competitive programming
+- 💡 **Problem Solving** - Algorithm optimization
 
 ---
 
