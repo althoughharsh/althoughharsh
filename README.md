@@ -7,7 +7,6 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/althoughharsh)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/althoughharsh)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:harsh.2428cseai1960@kiet.edu)
-[![Phone](https://img.shields.io/badge/Phone-+91--7982525698-green?style=flat&logo=whatsapp&logoColor=white)](tel:+917982525698)
 
 ---
 
@@ -95,50 +94,9 @@ Currently exploring the intersection of **LLMs**, **distributed systems**, and *
 - **Frontend:** Responsive React UI with optimized UX patterns
 - **Technologies:** React.js • Node.js • Express • MongoDB • JWT
 
-**Live Demo:** [Deployed on Render](https://lost-and-found-1-ynar.onrender.com/login)
+**Live Demo:** [Deployed on Render](https://github.com/althoughharsh)
 
 ---
-
-## 📚 Education & Certifications
-
-**🎓 KIET Group of Institutions** | *Sep 2024 – May 2028*  
-Computer Science Engineering with AI Specialization | **CGPA: 7.8/10** | Ghaziabad, UP
-
-**🏅 Cloud Certifications**
-- AWS Cloud Practitioner
-- AWS Solutions Architect – Associate  
-- AWS AI Practitioner
-
-**📖 Professional Development**
-- Machine Learning Specialization (Andrew Ng)
-
----
-
-## 🎯 Professional Engagement
-
-**Director General** – KIET MUN Society *(Oct 2024 – Present)*
-- Orchestrated 2 international conferences with 250+ delegates per event
-- Leadership training for 700+ students in diplomacy and public speaking
-- Award: Best Organizing Committee Member
-
-**Class Representative** – KIET Group of Institutions *(Sep 2024 – Present)*
-- Led 70+ students with faculty-level collaboration
-- Bridged institutional communication and student advocacy
-
-**NSS Volunteer** – National Service Scheme *(April 2025 – Present)*
-- 2-week social internship teaching underprivileged students
-- Organized community blood donation drive (300+ units)
-- Conducted AI literacy workshop for 100+ students
-
----
-
-## 🔬 Core Competencies
-
-| **Full-Stack Development** | **Cloud & DevOps** | **AI/ML Engineering** | **Problem Solving** |
-|:---:|:---:|:---:|:---:|
-| End-to-end app development with modern frameworks | AWS architecture & deployment pipelines | LLMs, RAG systems, data pipelines | Algorithm optimization & system design |
-| RESTful API design & optimization | CI/CD implementation | ML model training & evaluation | Data structure mastery |
-| Database design & performance tuning | Containerization strategies | Production ML deployment | Competitive programming |
 
 ## � Learning & Growth Trajectory
 
@@ -159,13 +117,13 @@ Computer Science Engineering with AI Specialization | **CGPA: 7.8/10** | Ghaziab
 
 ---
 
-## 📊 Quick Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-![GitHub followers](https://img.shields.io/github/followers/althoughharsh?style=flat&label=Followers&logo=github)
-![Code Status](https://img.shields.io/badge/Status-Active%20Developer-brightgreen?style=flat)
-![Open Source](https://img.shields.io/badge/Open%20Source-Enthusiast-blue?style=flat)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=althoughharsh&theme=dark&show_icons=true&hide_border=true)](https://github.com/althoughharsh)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=althoughharsh&theme=dark&hide_border=true&layout=compact)](https://github.com/althoughharsh)
 
 </div>
 
